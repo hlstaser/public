@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
+  "homepage": "https://hlstaser.github.io/public",
   "name": "todo-app-react",
-=======
-  "name": "my-react-app",
->>>>>>> 00c4878428965cfa53c235595316f58bc6a7d7a4
   "private": true,
   "version": "0.0.0",
   "type": "module",
